@@ -1,6 +1,6 @@
 {
   "extends": ["airbnb", "plugin:prettier/recommended"],
-  "plugins": ["html"],
+  "plugins": ["prettier", "html"],
   "settings": {
     "html/report-bad-indent": "error"
   },
