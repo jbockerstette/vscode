@@ -4,7 +4,7 @@ class ReactTest extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      gretting: 'hi'
+      gretting: 'hi',
     };
   }
 
